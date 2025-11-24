@@ -11,7 +11,7 @@ A robust C++ simulation of the **Shortest Job First (Non-Preemptive)** process s
 
 ## 🛠️ Tech Stack
 * **Language:** C++
-* **Concepts:** OOP, STL Vectors, File Streams, Sorting Algorithms (`std::sort`), Formatting (`iomanip`).
+* **Concepts:** OOP, STL Vectors, File Streams, Formatting (`iomanip`).
 
 ## 📊 Sample Output
 The program generates the **Execution Order** followed by a detailed analysis of each process.
